@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Pandey</h1>
 <h3 align="center">A passionate MERN Stack developer from India.</h3>
 
-<img src="https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif"  height="400px" width="700px" alt="">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  height="400px" width="700px" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushpandey24&label=Profile%20views&color=0e75b6&style=flat" alt="ayushpandey24" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack.**
